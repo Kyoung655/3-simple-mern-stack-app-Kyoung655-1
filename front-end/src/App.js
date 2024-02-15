@@ -5,7 +5,7 @@ import MessageStandalone from './MessageStandalone'
 import Home from './Home'
 import Header from './Header'
 import Footer from './Footer'
-import AboutUs from './AboutUs' //red squiggly line, why?
+import AboutUs from './AboutUs' //red squiggly line, why??
 
 const App = props => {
   return (
