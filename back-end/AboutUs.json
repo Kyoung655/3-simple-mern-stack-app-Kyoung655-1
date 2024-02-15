@@ -1,0 +1,16 @@
+{
+    "component": "AboutUs",
+    "content": {
+      "title": "ABOUT US",
+      "name": "Kim Young",
+      "image": "image_for_About_Us.png",
+      "imageAltText": "me",
+      "paragraphs": [
+        "Hello, my name is Kim Young. I am a student at NYU majoring in Computer Science and am\n  currently a senior. Some intersts I have in CS include software engineering, AI, and\n Machine Learning. Additionally, I have some experience with front end dev with HTML,\n CSS, and Bootstrap. For my career developement I hope to eventually become a software\n engineer in the future and develop interesting and useful apps that solve pressing\nproblems.\n",
+        
+        "In my personal life, I have a few hobbies including cooking, crocheting, working out,\n hanging with my friends, and shopping. Originally, I am from New Jersey-the northern part-\n so even before I moved in my NYU dorm, I was regulary in the wonderful New York City. \n There is much to do here and I enjoy eating at restaurants, stumbling across an interesting\n event, and being able to explore the many eye-cathing things here. \n"
+      ]
+    }
+  }
+  
+
